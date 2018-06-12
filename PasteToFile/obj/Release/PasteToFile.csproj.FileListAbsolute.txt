@@ -1,9 +1,0 @@
-D:\ProjetosTeste\PasteToFile\PasteToFile\bin\PasteToFile.exe.config
-D:\ProjetosTeste\PasteToFile\PasteToFile\bin\PasteToFile.exe
-D:\ProjetosTeste\PasteToFile\PasteToFile\obj\Release\PasteToFile.frmMain.resources
-D:\ProjetosTeste\PasteToFile\PasteToFile\obj\Release\PasteToFile.Properties.Resources.resources
-D:\ProjetosTeste\PasteToFile\PasteToFile\obj\Release\PasteToFile.csproj.GenerateResource.Cache
-D:\ProjetosTeste\PasteToFile\PasteToFile\obj\Release\PasteToFile.exe
-D:\ProjetosTeste\PasteToFile\PasteToFile\obj\Release\PasteToFile.pdb
-D:\ProjetosTeste\PasteToFile\PasteToFile\bin\PasteToFile.pdb
-D:\ProjetosTeste\PasteToFile\PasteToFile\obj\Release\PasteToFile.csprojResolveAssemblyReference.cache
